@@ -1,2 +1,2 @@
 # Git Lab #2
-## First team member: <Bradey Lounsbury>
+## First team member: Bradey Lounsbury
